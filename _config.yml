@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Advanced Computer Vision Meetup
 tagline:          'A Jekyll theme'
 description:      'Official website for the <a href="http://jekyllrb.com" target="_blank">Advanced Computer Vision Meetup</a> in Berlin'
-url:              https://notanymike.github.io/AdvancedComputerVision
+url:              https://notanymike.github.io/AdvancedComputerVision/
 baseurl:          /
 
 author:
@@ -22,6 +22,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/NotAnyMike/AdvancedComputerVision
+  repo:           https://github.com/NotAnyMike/AdvancedComputerVision/
 
 plugins:          [jekyll-paginate, jekyll-gist]
