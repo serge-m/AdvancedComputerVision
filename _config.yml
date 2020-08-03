@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Advanced Computer Vision Meetup
 tagline:          'A Jekyll theme'
 description:      'Official website for the <a href="http://jekyllrb.com" target="_blank">Advanced Computer Vision Meetup</a> in Berlin'
-url:              http://hyde.getpoole.com
+url:              https://notanymike.github.io/AdvancedComputerVision
 baseurl:          /
 
 author:
   name:           'Mike Woodcock'
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/NotAnyMike
 
 paginate:         5
 
@@ -22,6 +22,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/NotAnyMike/AdvancedComputerVision
 
 plugins:          [jekyll-paginate, jekyll-gist]
